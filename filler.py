@@ -35,9 +35,9 @@ if perm == "y":
     autofill(a,14,1.6)
     autotab(1)
     autofill(b,13,1.6)
-    print("thank me later \n ~fadhil")
+    print("Thank me later \n ~Akshay")
 else:
-     print("restart and just type 'y' plz ")
+     print("Please Exit the program ")
 
 
 
